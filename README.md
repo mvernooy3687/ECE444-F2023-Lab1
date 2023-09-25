@@ -17,8 +17,6 @@ Activity 4:
 
 ![image](https://github.com/mvernooy3687/ECE444-F2023-Lab1/assets/71790275/d279d11d-a1ab-46cc-9b53-800f22b63b25)
 
-![image](https://github.com/mvernooy3687/ECE444-F2023-Lab1/assets/71790275/366fbb8b-e931-403b-959a-f11419844510)
-
 ![image](https://github.com/mvernooy3687/ECE444-F2023-Lab1/assets/71790275/c2a475fd-66d3-4d0f-ad9b-423af8be2df4)
 
 
